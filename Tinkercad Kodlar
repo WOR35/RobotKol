@@ -17,17 +17,7 @@ void setup()
   servo_0.attach(4);    //servo motorları pinlere atıyoruz hangi pinde oldugunu.
   servo_1.attach(5);    // Kütüphaneyi kullanarak oluşturduğumuz
   servo_2.attach(6);    // nesneye hangi pini kullanarak motorumuzu.
-  servo_3.attach(7);    // kullanacağımızı belirtmek için kullanılır.
-  
-//ledler için  çıkış pini ayarlıyoruz.
-  pinMode(13, OUTPUT);   //13.numaralı pini çıkış pini olarak ayarlıyoruz.
-  pinMode(1, OUTPUT);    //1 numaralı pini çıkış pini olarak ayarlıyoruz.
-  pinMode(2, OUTPUT);    //2 numaralı pini çıkış pini olarak ayarlıyoruz.
-  pinMode(3, OUTPUT);    //3 numaralı pini çıkış pini olarak ayarlıyoruz.
-  pinMode(4, OUTPUT);    //4 numaralı pini çıkış pini olarak ayarlıyoruz.
-  pinMode(5, OUTPUT);    //5 numaralı pini çıkış pini olarak ayarlıyoruz.
-                         //butonlar için giriş pini atıyoruz
- 
+  servo_3.attach(7);    // kullanacağımızı belirtmek için kullanılır. 
 }
 
 void loop()
