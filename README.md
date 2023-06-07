@@ -8,7 +8,8 @@ Devrede Kullanılan Malzemeler:
                                 
 
 projenin Devre Şeması:
-![şematikkkksss](https://github.com/WOR35/RobotKol/assets/133985542/8c8c75ef-e4d5-4276-b1d9-d9d04ddf268f)
+![dddd](https://github.com/WOR35/RobotKol/assets/133985542/01c78d0c-cb62-46de-92b5-5edab927d711)
+
 
 
 Projeyi Gerçekleştirenler: 
