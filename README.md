@@ -10,4 +10,4 @@ Devrede Kullanılan Malzemeler:
 projenin Devre Şeması:
 ![şematik görünüm](https://github.com/WOR35/RobotKol/assets/133985542/c17fa498-69ad-4ce2-9346-6da915d7979c)
 
-Projeyi Gerçekleştirenler: 716 Mahmut Arda Yiğici & 280 Cenk Etik
+Projeyi Gerçekleştirenler: * 716 Mahmut Arda Yiğici & 280 Cenk Etik
