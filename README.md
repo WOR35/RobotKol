@@ -10,6 +10,7 @@ Devrede Kullanılan Malzemeler:
 projenin Devre Şeması:
 ![dddd](https://github.com/WOR35/RobotKol/assets/133985542/01c78d0c-cb62-46de-92b5-5edab927d711)
 
+tinkercad linki: https://www.tinkercad.com/things/gal9pyhMXcX-robot-kol-proje
 
 
 Projeyi Gerçekleştirenler: 
