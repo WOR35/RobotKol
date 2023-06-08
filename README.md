@@ -1,6 +1,7 @@
 # RobotKol![ROBOT KOL PROJE]
 Projenin resmi:
-(https://github.com/WOR35/RobotKol/assets/133985542/53e51884-049d-436e-96f1-eced68ef8344)
+![tinkercadresim](https://github.com/WOR35/RobotKol/assets/133985542/6ae5e3ab-69a2-428f-a1e4-84f6ae8e0a04)
+
 
 Devrede Kullanılan Malzemeler: 
 * 4 adet servo motor
